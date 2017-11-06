@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TownGuide</string>
+    <string name="pics_info"><![CDATA[Gallery & Info]]></string>
+    <string name="central_park_description">Central park is the most visited park in the United States. The park have a Zoo, Conservatory garden , 2 Skate rings , bicycle road and cars. Central park is beautiful is one of the most enjoyable places to visit anywhere in the world.</string>
+    <string name="halal_deli_description">Aks Halal Deli is one of the best deli grocery around the make everything juice salads fry food , healthy is a great store have a nice look from the outside and the inside you can find anything you are looking for the cooks are great. I love the chicken over rice and specially the curly fries </string>
+    <string name="ohana_description">Ohana Japanese Hibachi Seafood and Steakhouse is a awesome restaurant in city island , New york. The food is prepare in front of you is like a show before you eat each of the meals prepare for you everything taste just how it looks quite good. I recommend that you stop by if you past by New York. </string>
+    <string name="botanical_garden">The botanical garden of the bronx is not only for plants lover is for anyone it have allot of beautiful flower plants. The are all kind of plants in display cactus and more inside the glasshouse and the river that  passes trough the garden where ducks lives in the summer.</string>
+    <string name="beso_lounge">Beso lounge is a great bar Restaurant in the Norwood area in the bronx really nice place to eat latin food specially dominican food and seafood. The lounge in the late night is always full of beautiful girls and great music. Any event in paperview can be watch here.  </string>
+    <string name="la_marina">La Marina what can i not say about this place is beautiful it have a small area with beach sand on the side of the hudson river and a great view of the washington bridge.The musician mostly latin performers so if you love food great view outdoor experience this is the place for you.</string>
+    <string name="empanadas_monumental">Empanadas Monumental is the places for everything fried empanadas like the name states and so much more chimi, quipes , arepas, bollitos de yuca the food is so delicious that you are gonna have a hard time deciding what to eat i recommended is really good. </string>
+    <string name="turtle_cove">Turtle Cove Golf Center is a great family place if you like golf and baseball this is a great place for you and your kids. The turtle center have a batting cage and a mini golf course apart from the big golf yard that you can play to your heart content is close to the beach with have a playing are with basketball tennis and more sport and one step of city island and ohana the restaurant with great food,</string>
+    <string name="lacasa_del_mofongo">La casa del mofongo is the place for dominican food in washington height dominican food a dance floor and dominican music what more can you ask for dominican waitress with a beautiful body yes they have that too the full package you can full you stomach and your satisfy your eyes with some nice view.</string>
+    <string name="central_park">Central park</string>
+    <string name="places">places</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drive">Drive</string>
+</resources>
